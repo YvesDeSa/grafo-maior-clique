@@ -1,4 +1,4 @@
-#Grafo - Maior Clique
+# Grafo - Maior Clique
 
 Repositório destinado ao projeto da disciplina de **Programação Orientada a Objetos (POO) Aplicada**. 
 
@@ -64,9 +64,3 @@ docker run -p 8080:8080 grafo-maior-clique
 
 * 
 **Yves de Sá Barbosa** - [@YvesDeSa](https://www.google.com/search?q=https://github.com/YvesDeSa) 
-
-```
-
-Se quiser adicionar alguma explicação específica sobre como o algoritmo do Maior Clique foi implementado ou exemplos de requisição (se for uma API), é só me dar os detalhes que eu ajusto para você!
-
-```
